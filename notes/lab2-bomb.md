@@ -6,7 +6,7 @@
 反汇编bomb文件，并将得到的汇编代码保存在code.txt中方便查看。（只需要汇编代码就行，符号表不需要）  
 
 ```
-objdump -t bomb > code.txt
+objdump -d bomb > code.txt
 ```
 
 gdb命令：  
