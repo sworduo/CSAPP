@@ -3,4 +3,4 @@
 labs:  所有的labs  
 tar:  所有labs的原始压缩包  
 notes: （可能会有的）笔记  
-README: 网站上介绍每个lab的README,labs里还有介绍这个lab怎么做的readme  
+README: 网站上介绍每个lab的README,labs里还有介绍这个lab怎么做的readme.  
