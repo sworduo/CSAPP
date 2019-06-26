@@ -1,0 +1,1 @@
+Usage: ./csim [-hv] -s <s> -e <e> -b <b> -t <tracefile>
